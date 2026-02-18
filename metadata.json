@@ -1,0 +1,7 @@
+{
+  "name": "ParaYon: Akıllı Bütçe Yönetimi_son",
+  "description": "Zero-based budgeting application with AI insights, visual expense tracking, and quick transaction entry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
